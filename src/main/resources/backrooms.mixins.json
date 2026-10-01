@@ -1,0 +1,13 @@
+{
+  "required": true,
+  "package": "com.example.backrooms.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "mixins": [
+    "ClientWorldMixin"
+  ],
+  "client": [
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
